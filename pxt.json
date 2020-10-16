@@ -14,7 +14,7 @@
 		"sendbuffer.asm",
         "TransmitterIR.cpp",
         "TransmitterIR.h",
-        "_locales/zh/motorbit-strings.json"
+        "_locales/zh/magicbit-strings.json"
     ],
     "testFiles": [
         "test.ts"
