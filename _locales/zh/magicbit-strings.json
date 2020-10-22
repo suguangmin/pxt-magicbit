@@ -40,6 +40,6 @@
 	"magicbit.brightnessAll|block": "设置亮度 $level",
 	"magicbit.fillAll|block": "全屏点亮",
 	"magicbit.clearAll|block": "全屏熄灭",
-	"magicbit.randomizeAll|block": "随机点亮"
-	
+    "magicbit.randomizeAll|block": "随机点亮",
+    "magicbit.MotorRunDualDelay|block": "电机|%motor1|速度 %speed1|%motor2|速度 %speed2|延时 %delay|s"
 }
